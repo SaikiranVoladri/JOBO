@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">JoBo</string>
+    <string name="journalizing_app">Journalizing app</string>
+    <string name="book_1">Book 1</string>
+    <string name="book_2">Book 2</string>
+    <string name="book_3">Book 3</string>
 </resources>
